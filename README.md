@@ -5,8 +5,8 @@ Weekend Activity Login:
 
 ActivitiesForWeiwei
 
-## Review course videos
+1.Review course videos
 
-## Plant seeds in the garden
+2.Plant seeds in the garden
 
-## Go to park or zoo
+3.Go to park or zoo
