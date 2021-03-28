@@ -10,3 +10,4 @@ ActivitiesForWeiwei
 3.Go to park or zoo
 4.Cook dinner
 5.Wash clothes
+6.Read book
