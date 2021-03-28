@@ -1,9 +1,7 @@
 # PlayWithGitBashCommand
 
-Please login your weekend activites.
+Please login your weekend activities.
 Weekend Activity Login:
-<<<<<<< HEAD
-=======
 
 ActivitiesForWeiwei
 
@@ -17,4 +15,3 @@ Weiwei
 1.Wash clothes
 2.Study
 3.Cook dinner
->>>>>>> e69c263 (Weiwei Sunday Plan Update.)
